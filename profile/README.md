@@ -30,12 +30,3 @@ Hemos organizado nuestros repositorios para mantener la claridad y facilitar la 
 🎯 **Alejandro Uscátegui Torres**  
 🎯 **Nicolás Montaño Arias**  
 
-
-
----
-
-## 📩 Contacto
-📧 ¿Preguntas? ¿Ideas? Contáctanos:  
-✉️ `parchados-team@javeriana.edu.co`  
-
-👥 **Síguenos en nuestras redes sociales y mantente al tanto de las novedades!** 🚀  
