@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="250" src="parchados.png"  />
+</div>
+
 # 🏆 Parchados - Gestión de Centros Deportivos 🏟️
 
 ¡Bienvenid@ a **Parchados**! 🎉 Un sistema diseñado para la gestión eficiente de centros deportivos, permitiendo la administración de reservas, horarios y disponibilidad de espacios. 🚀
